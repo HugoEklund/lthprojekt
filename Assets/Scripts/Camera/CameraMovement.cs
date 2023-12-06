@@ -5,6 +5,7 @@ using UnityEngine;
 
 public class CameraMovement : MonoBehaviour
 {
+
     [SerializeField] private float smoothVal;
     [SerializeField] private float distOffset;
     [SerializeField] private float heightOffset;
